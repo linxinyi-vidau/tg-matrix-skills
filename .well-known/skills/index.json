@@ -1,0 +1,12 @@
+{
+  "package": "tg-matrix-skills",
+  "version": "0.1.0",
+  "description": "TG Matrix — Hermes Skill 包",
+  "skills": [
+    {
+      "name": "tg-matrix-lead-gen",
+      "description": "Telegram 矩阵获客：登录/注册、绑定执行号、一句话启动完整获客、跨天查进度",
+      "files": ["SKILL.md"]
+    }
+  ]
+}
